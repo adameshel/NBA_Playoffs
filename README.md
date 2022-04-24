@@ -1,6 +1,6 @@
 # NBA_Playoffs
 Example for pre-round 1 message:
-`YOUR_NAME
+YOUR_NAME
 
 champ,XXX
 Second,XXX
