@@ -1,27 +1,27 @@
 # NBA_Playoffs
 ### Example for pre-round 1 message (not case-sensitive):
 
-'YOUR_NAME'
+`YOUR_NAME`
 
-'champ,XXX'
+`champ,XXX`
 
-'Second,XXX'
+`Second,XXX`
 
-'MIA_ATL,XXX_9'
+`MIA_ATL,XXX_9`
 
-'BOS_BKN,XXX_9'
+`BOS_BKN,XXX_9`
 
-'MIL_CHI,XXX_9'
+`MIL_CHI,XXX_9`
 
-'PHI_TOR,XXX_9'
+`PHI_TOR,XXX_9`
 
-'PHX_NOP,XXX_9'
+`PHX_NOP,XXX_9`
 
-'MEM_MIN,XXX_9'
+`MEM_MIN,XXX_9`
 
-'GSW_DEN,XXX_9'
+`GSW_DEN,XXX_9`
 
-'DAL_UTA,XXX_9'
+`DAL_UTA,XXX_9`
 
 ### Example for pre-round 2 message (not case-sensitive):
 
@@ -29,11 +29,11 @@
 
 `PHX_LAC,XXX_9`
 
-'GSW_DEN,XXX_9'
+`GSW_DEN,XXX_9`
 
-'DAL_UTA,XXX_9'
+`DAL_UTA,XXX_9`
 
-'MIL_CHI,XXX_9'
+`MIL_CHI,XXX_9`
 
 `SCORERS:XXXX`
 
@@ -41,9 +41,9 @@
 
 `Your_Name`
 
-'MIL_CHI,XXX_9'
+`MIL_CHI,XXX_9`
 
-'PHI_TOR,XXX_9'
+`PHI_TOR,XXX_9`
 
 `SCORERS:XXXX`
 
@@ -55,7 +55,7 @@
 
 `Your_Name`
 
-'MIL_CHI,XXX_9'
+`MIL_CHI,XXX_9`
 
 `SCORERS:XXXX`
 
