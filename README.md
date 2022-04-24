@@ -35,7 +35,7 @@
 
 `MIL_CHI,XXX_9`
 
-`SCORERS:XXXX`
+`SCORERS:XXXX,XXXX,XXXX,XXXX`
 
 ### Example for pre-round 3 message (not case-sensitive):
 
@@ -45,11 +45,11 @@
 
 `PHI_TOR,XXX_9`
 
-`SCORERS:XXXX`
+`SCORERS:XXXX,XXXX`
 
-`ASSISTERS:XXXX`
+`ASSISTERS:XXXX,XXXX`
 
-`REBOUNDERS:XXXX`
+`REBOUNDERS:XXXX,XXXX`
 
 ### Example for pre-round 4 message (not case-sensitive):
 
