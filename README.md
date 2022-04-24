@@ -1,4 +1,16 @@
 # NBA_Playoffs
+## Directories:
+Directories should be named as follows:
+`first_round`, `second_round`, `third_round`, `finals`. 
+For each round, each participant has a .txt file with his message for the respective round, while the names of the files do not matter.
+Examples of messages per round are given below.
+The name of the participant should be written consistently in each file.
+
+## Running the notebook:
+1. Provide the path for the relevand directories and the name of the odds file.
+2. Type the results in the cell which requires this.
+3. Call the function `calc_total` by giving it as an input the round you are calculating (int). It will calculate all the previous rounds as well.
+
 ### Example for pre-round 1 message (not case-sensitive):
 
 `YOUR_NAME`
