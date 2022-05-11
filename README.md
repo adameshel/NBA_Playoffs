@@ -6,6 +6,8 @@ For each round, each participant has a .txt file with his message for the respec
 Examples of messages per round are given below.
 The name of the participant should be written consistently in each file.
 
+Names of teams should be 3 letters. Names of players should be 4 letters (first two of first and last names was found to be good, robust and simple enough for most people).
+
 ## Running the notebook:
 1. Provide the path for the relevand directories and the name of the odds file.
 2. Type the results in the cell which requires it.
